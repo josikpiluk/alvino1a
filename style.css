@@ -1,2 +1,14 @@
 main {
   background-color:#296664
+body {
+  #banner {
+        widh:100%
+  }
+  .principal{
+        background: #296664
+        padding: 30px
+  } 
+  .titulo-principal {
+       padding: 20px;
+  }
+  p{
